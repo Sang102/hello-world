@@ -2,6 +2,13 @@ Hello wordl
 Finish
 
 Create test function
+
+
+fix some bug
+
+finish fix bug
+
 Finish test function
 
 add new function
+
