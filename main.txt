@@ -19,5 +19,4 @@ add file test
 
 sang 01
 
-long
 
